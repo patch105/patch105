@@ -1,6 +1,5 @@
 ### Charlotte Patterson
 
-<!--
 I am a quantitative applied ecologist and conservation scientist, with a strong background in ecological fieldwork, statistical modelling, and conservation management. My research focusses on ways to leverage robust modelling underpinned by ecological understanding and effective communication to solve conservation issues.
 
 In my current research as a PhD Candidate at Queensland University of Technology, I study the terrestrial ecosystems of Antarctica and threats they face in a warming future. I use spatial models to understand how Antarctic communities might respond to climate change and explore methods to deal with the challenges of a very data-poor environment. 
