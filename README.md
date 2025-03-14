@@ -10,7 +10,7 @@ Find me at:
 
 :link: [LinkedIn](https://www.linkedin.com/in/charlotte-patterson-a27a4b186/)
 
-:link: [Twitter](https://twitter.com/Charlotterubyp)
+:link: [Bluesky](https://bsky.app/profile/charlotterubyp.bsky.social)
 
 :link: [Google Scholar](https://scholar.google.com/citations?user=RXWbC8QAAAAJ&hl=en&oi=ao)
 
